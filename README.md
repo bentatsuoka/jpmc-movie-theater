@@ -1,3 +1,10 @@
+# Changelog
+- Fixed code quality and style issues
+- Redesigned application structure
+- Added requested new features
+- Wrote tests for new features + rest of application (JUnit5)
+-----
+
 # Introduction
 
 This is a poorly written application, and we're expecting the candidate to greatly improve this code base.
